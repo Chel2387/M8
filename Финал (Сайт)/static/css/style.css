@@ -1,0 +1,27 @@
+body {
+  font-size: 16px;
+  background-color: #e0f7fa; /* Светло-голубой фон */
+  color: #00054d; /* Темно-зеленый цвет текста */
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #006379; /* Темно-бирюзовый цвет заголовков */
+}
+
+a {
+  color: #003464; /* Цвет ссылок */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00054d; /* Цвет ссылок при наведении */
+}
+
+/*with open("styles.css", "w") as f:
+    f.write(css_content)
+
+  <link rel="stylesheet" href="styles.css">
+
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">*/
